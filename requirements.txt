@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+streamlit
+streamlit-aggrid
+requests
+openpyxl
+python-multipart
+uv
+ruff

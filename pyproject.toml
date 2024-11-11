@@ -1,0 +1,7 @@
+[project]
+name = "streamExcel-light"
+version = "0.1.0"
+description = "Excel to json/XML converter"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
