@@ -10,3 +10,4 @@ wheels/
 .venv
 .env
 /older_version/
+.DS_store
